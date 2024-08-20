@@ -1,0 +1,4 @@
+log_json_file: 'person-10-trimmed\log\LOG-trimmed-person-10-fps-30-bbox-False-device-cuda-ssd-out.json'
+ground_truth_file: 'person-10-trimmed\groundtruth\groundtruth_pascal_voc.txt'
+result_csv_file: 'results.csv'
+iou_threshold: 0.5
